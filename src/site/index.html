@@ -1,0 +1,99 @@
+<!doctype html>
+<html>
+  <head>
+   <title>Sistema de Tickets</title>
+   <style>    
+        body{
+            margin: 0 auto;
+        }   
+        #reiniciar{
+            background-color: chocolate;
+            border: none;
+            height: 50px;
+            border-radius: 25px;
+            color: aliceblue;
+            padding: 10px;
+        }
+        .flex-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: rgb(255, 255, 255);
+            font-size: 150px;
+            flex-direction: row;
+            height: 50vh;
+            
+        }
+        .flex{
+            display: flex;
+            justify-content: center;
+            align-items: center; 
+        }
+        .flex-container div {
+            background-color:darkslategray;
+            border-radius: 50%;
+            color: white;
+            width: 300px;
+            height: 300px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }   
+        #resposta{
+            height: 20px;            
+            background-color: rgba(255,0,0, 0.8);
+            color: aliceblue;
+            padding-left: 10px;
+            padding-right: 10px;
+            display: none;
+        }     
+   </style>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.2.0/socket.io.js"></script>
+    <script>
+        $(function () {
+            var socket = io();      
+
+            socket.on('ticket', function(msg){
+                $('#ticket').text(msg);
+            });
+                      
+        });
+        
+    </script>
+</head>
+  <body>
+    <div class="flex">Ticket</div>
+    <div class="flex-container">
+        <div>
+            <p id="ticket">0</p>
+        </div>
+    </div>
+    <div class="flex">
+        <button onclick="requisicao()" id="reiniciar">Reiniciar tickets</button>
+    </div>
+    <div class="flex">
+        <p id="resposta"></p>
+    </div>
+    
+<script>
+ 
+    function requisicao(){
+        var url = "http://localhost:7070/v1/consumos/reinicia";//Sua URL
+
+        var xhttp = new XMLHttpRequest();
+        xhttp.open("GET", url, false);
+        xhttp.send();//A execução do script pára aqui até a requisição retornar do servidor
+
+        document.getElementById("resposta").innerHTML = xhttp.responseText;
+
+        console.log(xhttp.responseText);
+        setTimeout(function(){$('#resposta').css('display', 'block')},1000);
+        setTimeout(function(){$('#resposta').css('display', 'none')},4000);
+    }
+    
+</script>
+
+
+  </body>
+</html>

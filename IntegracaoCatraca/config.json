@@ -1,0 +1,9 @@
+{
+  "porta": 7175,
+  "charBipaFicha": "",
+  "movimento": {
+    "ultimoTicket": 0,
+    "caixa": 1,
+    "data": "23-09-2019"
+  }
+}

@@ -1,0 +1,25 @@
+<service>
+	<id>webservicesyspdv.exe</id>
+	<name>WebServiceSyspdv</name>
+	<description>Serviço que gerencia a catraca</description>
+	<executable>C:\Program Files\nodejs\node.exe</executable>
+	<logmode>rotate</logmode>
+	<argument>--harmony</argument>
+	<argument>E:\_Projetos WEB\madisSyspdv\node_modules\node-windows\lib\wrapper.js</argument>
+	<argument>--file</argument>
+	<argument>E:\_Projetos WEB\madisSyspdv\server.js</argument>
+	<argument>--log</argument>
+	<argument>WebServiceSyspdv wrapper</argument>
+	<argument>--grow</argument>
+	<argument>0.25</argument>
+	<argument>--wait</argument>
+	<argument>1</argument>
+	<argument>--maxrestarts</argument>
+	<argument>3</argument>
+	<argument>--abortonerror</argument>
+	<argument>n</argument>
+	<argument>--stopparentfirst</argument>
+	<argument>undefined</argument>
+	<stoptimeout>30sec</stoptimeout>
+	<workingdirectory>E:\_Projetos WEB\madisSyspdv</workingdirectory>
+</service>

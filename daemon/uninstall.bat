@@ -1,0 +1,1 @@
+C:E:\_ProjetosWEB\madisSyspdv\daemon\webservicesyspdv.exe /uninstall

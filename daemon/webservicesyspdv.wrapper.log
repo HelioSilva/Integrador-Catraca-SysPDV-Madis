@@ -1,0 +1,194 @@
+2019-09-18 01:59:33 - Starting C:\Program Files\nodejs\node.exe  --harmony "E:\_Projetos WEB\madisSyspdv\node_modules\node-windows\lib\wrapper.js" --file "E:\_Projetos WEB\madisSyspdv\server.js" --log "WebServiceSyspdv wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-09-18 01:59:33 - Started 5024
+2019-09-18 02:00:21 - Stopping webservicesyspdv.exe
+2019-09-18 02:00:21 - ProcessKill 5024
+2019-09-18 02:00:21 - Found child process: 8016 Name: conhost.exe
+2019-09-18 02:00:21 - Found child process: 2632 Name: node.exe
+2019-09-18 02:00:21 - Stopping process 8016
+2019-09-18 02:00:21 - Send SIGINT 8016
+2019-09-18 02:00:21 - SIGINT to 8016 failed - Killing as fallback
+2019-09-18 02:00:21 - Stopping process 2632
+2019-09-18 02:00:21 - Send SIGINT 2632
+2019-09-18 02:00:22 - SIGINT to 2632 failed - Killing as fallback
+2019-09-18 02:00:22 - Stopping process 5024
+2019-09-18 02:00:22 - Send SIGINT 5024
+2019-09-18 02:00:22 - SIGINT to 5024 failed - Killing as fallback
+2019-09-18 02:00:22 - Finished webservicesyspdv.exe
+2019-09-18 02:00:31 - Starting C:\Program Files\nodejs\node.exe  --harmony "E:\_Projetos WEB\madisSyspdv\node_modules\node-windows\lib\wrapper.js" --file "E:\_Projetos WEB\madisSyspdv\server.js" --log "WebServiceSyspdv wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-09-18 02:00:31 - Started 11376
+2019-09-18 02:05:50 - Stopping webservicesyspdv.exe
+2019-09-18 02:05:50 - ProcessKill 11376
+2019-09-18 02:05:50 - Found child process: 8216 Name: conhost.exe
+2019-09-18 02:05:50 - Found child process: 8944 Name: node.exe
+2019-09-18 02:05:50 - Stopping process 8216
+2019-09-18 02:05:50 - Send SIGINT 8216
+2019-09-18 02:05:50 - SIGINT to 8216 failed - Killing as fallback
+2019-09-18 02:05:50 - Stopping process 8944
+2019-09-18 02:05:50 - Send SIGINT 8944
+2019-09-18 02:05:50 - SIGINT to 8944 failed - Killing as fallback
+2019-09-18 02:05:50 - Stopping process 11376
+2019-09-18 02:05:50 - Send SIGINT 11376
+2019-09-18 02:05:50 - SIGINT to 11376 failed - Killing as fallback
+2019-09-18 02:05:50 - Finished webservicesyspdv.exe
+2019-09-18 11:46:52 - Starting C:\Program Files\nodejs\node.exe  --harmony "E:\_Projetos WEB\madisSyspdv\node_modules\node-windows\lib\wrapper.js" --file "E:\_Projetos WEB\madisSyspdv\server.js" --log "WebServiceSyspdv wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-09-18 11:46:52 - Started 772
+2019-09-18 17:48:47 - Stopping webservicesyspdv.exe
+2019-09-18 17:48:47 - ProcessKill 772
+2019-09-18 17:48:47 - Found child process: 6164 Name: conhost.exe
+2019-09-18 17:48:47 - Found child process: 10332 Name: node.exe
+2019-09-18 17:48:47 - Stopping process 6164
+2019-09-18 17:48:47 - Send SIGINT 6164
+2019-09-18 17:48:48 - SIGINT to 6164 failed - Killing as fallback
+2019-09-18 17:48:48 - Stopping process 10332
+2019-09-18 17:48:48 - Send SIGINT 10332
+2019-09-18 17:48:48 - SIGINT to 10332 failed - Killing as fallback
+2019-09-18 17:48:48 - Stopping process 772
+2019-09-18 17:48:48 - Send SIGINT 772
+2019-09-18 17:48:48 - SIGINT to 772 failed - Killing as fallback
+2019-09-18 17:48:48 - Finished webservicesyspdv.exe
+2019-09-18 17:48:51 - Starting C:\Program Files\nodejs\node.exe  --harmony "E:\_Projetos WEB\madisSyspdv\node_modules\node-windows\lib\wrapper.js" --file "E:\_Projetos WEB\madisSyspdv\server.js" --log "WebServiceSyspdv wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-09-18 17:48:51 - Started 11596
+2019-09-18 17:49:31 - Stopping webservicesyspdv.exe
+2019-09-18 17:49:31 - ProcessKill 11596
+2019-09-18 17:49:31 - Found child process: 10944 Name: conhost.exe
+2019-09-18 17:49:31 - Found child process: 3048 Name: node.exe
+2019-09-18 17:49:31 - Stopping process 10944
+2019-09-18 17:49:31 - Send SIGINT 10944
+2019-09-18 17:49:31 - SIGINT to 10944 failed - Killing as fallback
+2019-09-18 17:49:31 - Stopping process 3048
+2019-09-18 17:49:31 - Send SIGINT 3048
+2019-09-18 17:49:31 - SIGINT to 3048 failed - Killing as fallback
+2019-09-18 17:49:31 - Stopping process 11596
+2019-09-18 17:49:31 - Send SIGINT 11596
+2019-09-18 17:49:31 - SIGINT to 11596 failed - Killing as fallback
+2019-09-18 17:49:31 - Finished webservicesyspdv.exe
+2019-09-18 17:57:36 - Starting C:\Program Files\nodejs\node.exe  --harmony "E:\_Projetos WEB\madisSyspdv\node_modules\node-windows\lib\wrapper.js" --file "E:\_Projetos WEB\madisSyspdv\server.js" --log "WebServiceSyspdv wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-09-18 17:57:36 - Started 7112
+2019-09-18 17:59:13 - Stopping webservicesyspdv.exe
+2019-09-18 17:59:13 - ProcessKill 7112
+2019-09-18 17:59:13 - Found child process: 13140 Name: conhost.exe
+2019-09-18 17:59:13 - Found child process: 2468 Name: node.exe
+2019-09-18 17:59:13 - Stopping process 13140
+2019-09-18 17:59:13 - Send SIGINT 13140
+2019-09-18 17:59:13 - SIGINT to 13140 failed - Killing as fallback
+2019-09-18 17:59:13 - Stopping process 2468
+2019-09-18 17:59:13 - Send SIGINT 2468
+2019-09-18 17:59:13 - SIGINT to 2468 failed - Killing as fallback
+2019-09-18 17:59:13 - Stopping process 7112
+2019-09-18 17:59:13 - Send SIGINT 7112
+2019-09-18 17:59:13 - SIGINT to 7112 failed - Killing as fallback
+2019-09-18 17:59:13 - Finished webservicesyspdv.exe
+2019-09-18 18:07:03 - Starting C:\Program Files\nodejs\node.exe  --harmony "E:\_Projetos WEB\madisSyspdv\node_modules\node-windows\lib\wrapper.js" --file "E:\_Projetos WEB\madisSyspdv\server.js" --log "WebServiceSyspdv wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-09-18 18:07:03 - Started 9652
+2019-09-18 18:25:25 - Stopping webservicesyspdv.exe
+2019-09-18 18:25:25 - ProcessKill 9652
+2019-09-18 18:25:25 - Found child process: 5860 Name: conhost.exe
+2019-09-18 18:25:25 - Found child process: 216 Name: node.exe
+2019-09-18 18:25:25 - Stopping process 5860
+2019-09-18 18:25:25 - Send SIGINT 5860
+2019-09-18 18:25:25 - SIGINT to 5860 failed - Killing as fallback
+2019-09-18 18:25:25 - Stopping process 216
+2019-09-18 18:25:25 - Send SIGINT 216
+2019-09-18 18:25:25 - SIGINT to 216 failed - Killing as fallback
+2019-09-18 18:25:25 - Stopping process 9652
+2019-09-18 18:25:25 - Send SIGINT 9652
+2019-09-18 18:25:25 - SIGINT to 9652 failed - Killing as fallback
+2019-09-18 18:25:25 - Finished webservicesyspdv.exe
+2019-09-21 15:07:05 - Starting C:\Program Files\nodejs\node.exe  --harmony "E:\_Projetos WEB\madisSyspdv\node_modules\node-windows\lib\wrapper.js" --file "E:\_Projetos WEB\madisSyspdv\server.js" --log "WebServiceSyspdv wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-09-21 15:07:06 - Started 4916
+2019-10-06 13:41:57 - Stopping webservicesyspdv.exe
+2019-10-06 13:41:57 - ProcessKill 4916
+2019-10-06 13:42:03 - Shutdown exception
+Message:The type initializer for 'System.Management.ManagementPath' threw an exception.
+Stacktrace:   at System.Management.ManagementPath.get_DefaultPath()
+   at System.Management.ManagementScope._Clone(ManagementScope scope, IdentifierChangedEventHandler handler)
+   at System.Management.ManagementObjectSearcher..ctor(ManagementScope scope, ObjectQuery query, EnumerationOptions options)
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2019-10-06 13:43:05 - Starting C:\Program Files\nodejs\node.exe  --harmony "E:\_Projetos WEB\madisSyspdv\node_modules\node-windows\lib\wrapper.js" --file "E:\_Projetos WEB\madisSyspdv\server.js" --log "WebServiceSyspdv wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-10-06 13:43:06 - Started 6060
+2019-10-08 18:15:20 - Stopping webservicesyspdv.exe
+2019-10-08 18:15:20 - ProcessKill 6060
+2019-10-08 18:15:27 - Shutdown exception
+Message:O sistema está sendo desligado.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2019-10-08 18:48:51 - Starting C:\Program Files\nodejs\node.exe  --harmony "E:\_Projetos WEB\madisSyspdv\node_modules\node-windows\lib\wrapper.js" --file "E:\_Projetos WEB\madisSyspdv\server.js" --log "WebServiceSyspdv wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-10-08 18:48:52 - Started 5988
+2019-10-15 19:49:39 - Stopping webservicesyspdv.exe
+2019-10-15 19:49:40 - ProcessKill 5988
+2019-10-15 19:49:49 - Shutdown exception
+Message:The type initializer for 'System.Management.ManagementPath' threw an exception.
+Stacktrace:   at System.Management.ManagementScope._Clone(ManagementScope scope, IdentifierChangedEventHandler handler)
+   at System.Management.ManagementObjectSearcher..ctor(ManagementScope scope, ObjectQuery query, EnumerationOptions options)
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2019-10-15 19:50:55 - Starting C:\Program Files\nodejs\node.exe  --harmony "E:\_Projetos WEB\madisSyspdv\node_modules\node-windows\lib\wrapper.js" --file "E:\_Projetos WEB\madisSyspdv\server.js" --log "WebServiceSyspdv wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-10-15 19:50:56 - Started 5828
+2019-10-18 08:57:29 - Stopping webservicesyspdv.exe
+2019-10-18 08:57:29 - ProcessKill 5828
+2019-10-18 08:57:36 - Shutdown exception
+Message:The type initializer for 'System.Management.ManagementPath' threw an exception.
+Stacktrace:   at System.Management.ManagementPath.get_DefaultPath()
+   at System.Management.ManagementScope._Clone(ManagementScope scope, IdentifierChangedEventHandler handler)
+   at System.Management.ManagementObjectSearcher..ctor(ManagementScope scope, ObjectQuery query, EnumerationOptions options)
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2019-10-18 08:58:29 - Starting C:\Program Files\nodejs\node.exe  --harmony "E:\_Projetos WEB\madisSyspdv\node_modules\node-windows\lib\wrapper.js" --file "E:\_Projetos WEB\madisSyspdv\server.js" --log "WebServiceSyspdv wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-10-18 08:58:30 - Started 5868
+2019-10-25 23:38:31 - Stopping webservicesyspdv.exe
+2019-10-25 23:38:32 - ProcessKill 5868
+2019-10-25 23:38:37 - Shutdown exception
+Message:Could not load file or assembly 'System.Management, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. A mídia está protegida contra gravação. (Exception from HRESULT: 0x80070013)
+Stacktrace:   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2019-10-25 23:39:37 - Starting C:\Program Files\nodejs\node.exe  --harmony "E:\_Projetos WEB\madisSyspdv\node_modules\node-windows\lib\wrapper.js" --file "E:\_Projetos WEB\madisSyspdv\server.js" --log "WebServiceSyspdv wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-10-25 23:39:38 - Started 3940
+2019-10-27 12:12:55 - Stopping webservicesyspdv.exe
+2019-10-27 12:12:56 - ProcessKill 3940
+2019-10-27 12:13:46 - Starting C:\Program Files\nodejs\node.exe  --harmony "E:\_Projetos WEB\madisSyspdv\node_modules\node-windows\lib\wrapper.js" --file "E:\_Projetos WEB\madisSyspdv\server.js" --log "WebServiceSyspdv wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-10-27 12:13:46 - Started 5228
+2019-11-04 09:51:18 - Stopping webservicesyspdv.exe
+2019-11-04 09:51:18 - ProcessKill 5228
+2019-11-04 09:51:25 - Shutdown exception
+Message:The type initializer for 'System.Management.ManagementPath' threw an exception.
+Stacktrace:   at System.Management.ManagementScope._Clone(ManagementScope scope, IdentifierChangedEventHandler handler)
+   at System.Management.ManagementObjectSearcher..ctor(ManagementScope scope, ObjectQuery query, EnumerationOptions options)
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2019-11-04 09:52:26 - Starting C:\Program Files\nodejs\node.exe  --harmony "E:\_Projetos WEB\madisSyspdv\node_modules\node-windows\lib\wrapper.js" --file "E:\_Projetos WEB\madisSyspdv\server.js" --log "WebServiceSyspdv wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-11-04 09:52:26 - Started 5352
+2019-11-15 02:45:43 - Starting C:\Program Files\nodejs\node.exe  --harmony "E:\_Projetos WEB\madisSyspdv\node_modules\node-windows\lib\wrapper.js" --file "E:\_Projetos WEB\madisSyspdv\server.js" --log "WebServiceSyspdv wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-11-15 02:45:43 - Started 6008
+2019-11-16 13:23:48 - Stopping webservicesyspdv.exe
+2019-11-16 13:23:49 - ProcessKill 6008
+2019-11-16 13:23:49 - Found child process: 6036 Name: conhost.exe
+2019-11-16 13:23:49 - Found child process: 6576 Name: node.exe
+2019-11-16 13:23:49 - Stopping process 6036
+2019-11-16 13:23:49 - Send SIGINT 6036
+2019-11-16 13:23:49 - SIGINT to 6036 failed - Killing as fallback
+2019-11-16 13:23:49 - Stopping process 6576
+2019-11-16 13:23:49 - Send SIGINT 6576
+2019-11-16 13:23:49 - SIGINT to 6576 failed - Killing as fallback
+2019-11-16 13:23:49 - Stopping process 6008
+2019-11-16 13:23:49 - Send SIGINT 6008
+2019-11-16 13:23:49 - SIGINT to 6008 failed - Killing as fallback
+2019-11-16 13:23:49 - Finished webservicesyspdv.exe
